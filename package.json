@@ -2,7 +2,7 @@
   "name": "mezza-maratona",
   "version": "1.0.0",
   "scripts": {
-    "build": "vite build"
+    "build": "npx vite build"
   },
   "dependencies": {
     "react": "18.2.0",
